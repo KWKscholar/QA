@@ -4,7 +4,7 @@
 //
 //  Created by Scholar on 6/9/23.
 //
-
+//HI
 import SwiftUI
 
 struct PageTwo: View {
@@ -14,7 +14,7 @@ struct PageTwo: View {
                 Color(.purple)
                     .ignoresSafeArea()
                 VStack {
-                    Text("pick a monster high boy")
+                    Text("pick a monster high boy!")
                         .foregroundColor(Color.gray)
                         .multilineTextAlignment(.center)
                     Spacer()
