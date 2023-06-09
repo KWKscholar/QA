@@ -14,7 +14,7 @@ struct PageTwo: View {
                 Color(.purple)
                     .ignoresSafeArea()
                 VStack {
-                    Text("pick a monster high boy!")
+                    Text("pick a monster high boy!!")
                         .foregroundColor(Color.gray)
                         .multilineTextAlignment(.center)
                     Spacer()
